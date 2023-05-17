@@ -1,0 +1,2 @@
+# Data-Mining-via-Dimensionality-Reduction-on-Retail-Data
+Data mining via dimensionality reduction on retail data refers to the process of extracting valuable insights and patterns from a large volume of retail data by reducing its dimensionality. Dimensionality reduction techniques aim to transform high-dimensional data into a lower-dimensional representation while preserving important information.
